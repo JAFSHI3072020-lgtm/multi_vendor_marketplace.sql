@@ -113,13 +113,6 @@ The SQL file includes:
 - Query optimization
 - Real-world marketplace modeling
 
----
-
-## 👩‍💻 Author
-
-**Shimu (CSE Student)**  
-Computer Science & Engineering  
-IUBAT  
 
 ---
 
